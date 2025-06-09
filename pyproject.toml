@@ -1,0 +1,10 @@
+[project]
+name = "langgraph_study"
+version = "0.1.0"
+description = "LangGraph is a library for building and running graphs of language models."
+authors = ["전상문"]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langgraph",
+]
